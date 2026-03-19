@@ -46,11 +46,11 @@ python3 python/injector.py --interval 5
 
 ## 스크린샷
 
-> *실행 후 스크린샷을 이 위치에 추가하세요.*
 
-```
-[ 대시보드 스크린샷 ]
-```
+
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/7aeae4b6-0a92-4a09-afd9-15775a8d4b3f" />
+
+
 
 ---
 
